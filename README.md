@@ -1,25 +1,8 @@
-# <Your-Project-Title>
-
-## Description
+# <Horiseon-Challenge>
 
 
-mhjgk.jhlk.
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+- The motivation was to create a webpage that follows SEO standards.
+- I built this project in order to practice my skills in html and css
+- Problems including layout, working links, images that were viewable, and tags that were too similar to diffientriate. 
+- This challenge taught me how important div tools are while viewing a webpage
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
